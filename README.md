@@ -7,5 +7,5 @@ Intro video for Gary's Software Class
   <source src="video/WIN_20190903_12_56_04_Pro.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+<img src="img_girl.jpg" alt="Girl in a jacket"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7OYtaJnLzTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
